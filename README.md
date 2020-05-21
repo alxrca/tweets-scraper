@@ -17,7 +17,7 @@ consumer_key = 'CONSUMER KEY'
 consumer_secret = 'CONSUMER SECRET'
   ```
 ## Write the name of the profile you want to collect tweets from
-Go to the Twitter profile of the person you'd like to collect tweets and replies from. Copy is username (you don't need the @), and paste it in the code.
+Go to the Twitter profile of the person you'd like to collect tweets and replies from. Copy the username (you don't need the @), and paste it in the code.
   ```python
 #Write the name of the profile you want to collect tweets from
 user = 'USERNAME'
